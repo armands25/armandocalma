@@ -150,7 +150,7 @@ body {
 #hero {
     width: 100%;
     height: 100vh;
-    background: url("assets/img/armando.JPG") top right;
+    background: url("../../assets/img/armando.jpg") top right;
     background-size:cover;
 }
 
